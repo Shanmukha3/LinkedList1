@@ -19,7 +19,7 @@ class LinkedList:
         while cnode:
             print(cnode.data,end = " ")
             cnode = cnode.next 
-
+#good
 Linkedlist  = LinkedList()
 Linkedlist.Insert(4)
 Linkedlist.Insert(0)
